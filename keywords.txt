@@ -1,0 +1,59 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+BotLee	KEYWORD1
+BotLeeMotors	KEYWORD1
+BotLeeRC	KEYWORD1
+BotLeeSensors	KEYWORD1
+BotLeeSerial	KEYWORD1
+BotLeeOLED	KEYWORD1
+IR_RC5	KEYWORD1
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setSpeedM1	KEYWORD2
+setSpeedM2	KEYWORD2
+setSpeeds	KEYWORD2
+stop	KEYWORD2
+readChannel	KEYWORD2
+readChannelFast	KEYWORD2
+toPWM	KEYWORD2
+setTypeSensors	KEYWORD2
+setNewDataCallback	KEYWORD2
+readSensor	KEYWORD2
+steering	KEYWORD2
+getSpeedsRC	KEYWORD2
+setNumChannels	KEYWORD2
+initBuffer	KEYWORD2
+freeBuffer	KEYWORD2
+show	KEYWORD2
+getMessage	KEYWORD2
+displayClear	KEYWORD2
+displayOn	KEYWORD2
+displayOff	KEYWORD2
+setCursor	KEYWORD2
+setTextSize	KEYWORD2
+setTextColor	KEYWORD2
+readChannelFast	KEYWORD2
+drawFastHLine	KEYWORD2
+drawFastVLine	KEYWORD2
+startscrollright	KEYWORD2
+startscrollleft	KEYWORD1
+startscrolldiagright	KEYWORD2
+startscrolldiagleft	KEYWORD2
+stopscroll	KEYWORD2
+dim	KEYWORD2
+clearDisplay	KEYWORD2
+height	KEYWORD2
+width	KEYWORD2
+#######################################
+# Constants (LITERAL1)
+#######################################
+MAX_CHANNELS	LITERAL1
+NUM_SENSORS	LITERAL1
+ANALOG	KEYWORD2
+DIGITAL	LITERAL1
+DISABLE	LITERAL1
+INVERTED	LITERAL1
+NO_READ_CH	LITERAL1
+READ_CH  LITERAL1
